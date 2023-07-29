@@ -38,8 +38,8 @@
 	bottom: 5%;
 	font-size: 2.0em;
 	color: #5027e4;
-	font-family: "Roboto", sans-serif;
-	font-weight: 300;
+	font-family: Helvetica, sans-serif;
+	font-weight: 400;
 	padding: 10px;
 	text-align: center;
 	text-shadow: 0 0 10px rgba(82, 80, 80, 0.8);
@@ -47,7 +47,7 @@
 
 .author {
 	position: absolute;
-	font-size: 1.3em;
+	font-size: 2.0em;
 	color: #fff;
 	font-family: "Roboto", sans-serif;
 	font-weight: 200;
