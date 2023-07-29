@@ -1,2 +1,3 @@
 # EA
- Novo Projeto
+ Novo Projeto 
+ New Project
