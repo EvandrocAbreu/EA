@@ -5,10 +5,10 @@
 
 .container {
 	width: 100vw;
-	height: 100vh;
+	height: 150vh;
 	display: flex;
 	flex-direction: column;
-	justify-content: top;
+	justify-content: center;
 	align-items: center;
 	background-image: url("../images/bg.jpg");
 	background-position: center;
